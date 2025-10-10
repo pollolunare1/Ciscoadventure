@@ -1,0 +1,42 @@
+{
+	id: "4d270777-929a-4f50-9289-880c4fcd340d"
+	type: "party"
+	owner: "330291de-93e0-3a87-b4e5-4fe4a0532567"
+	ranks: {
+		2ac27bb4-454f-3ff0-bcaa-51ffce648889: "member"
+		ed2152f2-f728-39eb-8159-968bc7a130b0: "member"
+		7655afbe-cf1a-3e5e-9cc3-dc81058220d9: "member"
+		be931e01-4080-33ce-ae15-496ddf7084de: "ally"
+		330291de-93e0-3a87-b4e5-4fe4a0532567: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Didier se la come entera"
+		"ftbteams:description": "Odio al projimo"
+		"ftbteams:color": "#FF8C59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1759803084208L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"primordial\"}]}" }
+		{ from: "330291de-93e0-3a87-b4e5-4fe4a0532567", date: 1759803084221L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Khenzhon\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1759803087143L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Khenzhon\"}]}" }
+		{ from: "330291de-93e0-3a87-b4e5-4fe4a0532567", date: 1759803172690L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"VALDIVIAAA\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1759803178607L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"VALDIVIAAA\"}]}" }
+		{ from: "330291de-93e0-3a87-b4e5-4fe4a0532567", date: 1759803964495L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"DarkWisard\"}]}" }
+		{ from: "330291de-93e0-3a87-b4e5-4fe4a0532567", date: 1759804074115L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"DarkWisard\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1759804077613L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DarkWisard\"}]}" }
+		{ from: "330291de-93e0-3a87-b4e5-4fe4a0532567", date: 1759811962658L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Didier02\"}]}" }
+	]
+	extra: { }
+}

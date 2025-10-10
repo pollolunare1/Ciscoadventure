@@ -1,0 +1,32 @@
+{
+	id: "406fdb72-dc74-40d1-8155-ba3910695c86"
+	type: "party"
+	owner: "013e2a78-1b61-3ff9-a8d9-826768f7ad1f"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Pingones Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D9FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1759182499045L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"pollolunar\"}]}" }
+		{ from: "013e2a78-1b61-3ff9-a8d9-826768f7ad1f", date: 1759182499056L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"VALDIVIAAA\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1759182505251L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"VALDIVIAAA\"}]}" }
+		{ from: "330291de-93e0-3a87-b4e5-4fe4a0532567", date: 1759803162791L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"VALDIVIAAA\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info PingonesParty#406fdb72\"},\"text\":\"Pingones Party\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1759803162797L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"013e2a78-1b61-3ff9-a8d9-826768f7ad1f\"}]}" }
+	]
+	extra: { }
+}
